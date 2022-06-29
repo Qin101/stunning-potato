@@ -1,0 +1,37 @@
+{
+  "name": "ethglobaldao",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@alch/alchemy-web3": "^1.4.4",
+    "@material-ui/core": "^4.12.4",
+    "all": "^0.0.0",
+    "axios": "^0.27.2",
+    "base-path-converter": "^1.0.2",
+    "dotenv": "^16.0.1",
+    "ethers": "^5.6.9",
+    "form-data": "^4.0.0",
+    "fs": "^0.0.1-security",
+    "memfs": "^3.4.7",
+    "moralis": "^1.8.0",
+    "recursive-fs": "^2.1.0",
+    "web3": "^1.7.4",
+    "date-fns": "^2.11.1",
+    "gray-matter": "^4.0.2",
+    "next": "latest",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "remark": "^14.0.1",
+    "remark-html": "^15.0.0"
+  },
+  "devDependencies": {
+    "eslint": "8.18.0",
+    "eslint-config-next": "12.1.6"
+  }
+}
